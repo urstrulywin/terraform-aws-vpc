@@ -1,9 +1,9 @@
 variable "project" {
-  type        = string
+    type = string
 }
 
 variable "environment" {
-  type        = string
+    type = string
 }
 
 variable "vpc_cidr" {
